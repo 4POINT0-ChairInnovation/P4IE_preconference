@@ -8,7 +8,9 @@ Structure of the workshop:
     Group work on section 4 (60 minutes)
     Plenary session with groups presentations (20 minutes)
 
+
 This tutorial cannot be considered exhaustive of the domain of textual data analysis.
+
 Authors:
 
     Mikaël Héroux-Vaillancourt mikael.heroux-vaillancourt@polymtl.ca
